@@ -29,6 +29,8 @@ protected:
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	USphereComponent* SphereComp;
+	
+
 
 public:	
 	// Called every frame
